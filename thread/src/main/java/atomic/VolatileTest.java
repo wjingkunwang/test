@@ -6,7 +6,7 @@ import java.util.concurrent.atomic.AtomicInteger;
  * Created by wjk on 15/12/22.
  */
 public class VolatileTest {
-    private static AtomicInteger race = new AtomicInteger(0);
+    private static volatile int race =   0;
     private static final int THREAD_COUNT = 200;
 
     public static void main(String[] args) {
@@ -15,7 +15,7 @@ public class VolatileTest {
             threads[i] = new Thread(new Runnable() {
                 public void run() {
                     for(int i = 0; i < 2000; i++){
-                        race.incrementAndGet();
+                        race++;
                     }
                 }
             });
@@ -29,4 +29,5 @@ public class VolatileTest {
 
         }
     }
+
 }

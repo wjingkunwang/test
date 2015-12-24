@@ -66,6 +66,7 @@ class DrawThread extends Thread {
         this.x = x;
     }
 
+
     public void run() {
         myCount.drawing(x, name);
     }
