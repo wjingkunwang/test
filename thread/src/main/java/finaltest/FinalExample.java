@@ -1,7 +1,7 @@
 package finaltest;
 
 /**
- * Created by wjk on 15/12/24.
+ * 对于一个final变量，如果是基本数据类型的变量，则其数值一旦在初始化之后便不能更改
  */
 public class FinalExample {
     int i;                            //普通变量
@@ -15,6 +15,7 @@ public class FinalExample {
 
     public static void writer () {    //写线程A执行
         obj = new FinalExample ();
+        obj.i = 100;
     }
 
     public static void reader () {       //读线程B执行

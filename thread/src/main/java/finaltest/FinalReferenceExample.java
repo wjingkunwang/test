@@ -1,7 +1,7 @@
 package finaltest;
 
 /**
- * Created by wjk on 15/12/24.
+ * 引用类型的变量，则在对其初始化之后便不能再让其指向另一个对象。
  */
 public class FinalReferenceExample {
     final int[] intArray;                     //final是引用类型
