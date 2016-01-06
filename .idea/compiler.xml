@@ -23,12 +23,14 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basic_java" />
+        <module name="think_java" />
         <module name="thread" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic_java" target="1.5" />
       <module name="test" target="1.5" />
+      <module name="think_java" target="1.5" />
       <module name="thread" target="1.5" />
     </bytecodeTargetLevel>
   </component>
