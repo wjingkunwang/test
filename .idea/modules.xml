@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/basic_java/basic_java.iml" filepath="$PROJECT_DIR$/basic_java/basic_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/basic_java/class_innner.iml" filepath="$PROJECT_DIR$/basic_java/class_innner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_pattern/design_pattern.iml" filepath="$PROJECT_DIR$/design_pattern/design_pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/test.iml" filepath="$PROJECT_DIR$/test.iml" />
       <module fileurl="file://$PROJECT_DIR$/think_java/think_java.iml" filepath="$PROJECT_DIR$/think_java/think_java.iml" />
       <module fileurl="file://$PROJECT_DIR$/thread/thread.iml" filepath="$PROJECT_DIR$/thread/thread.iml" />
