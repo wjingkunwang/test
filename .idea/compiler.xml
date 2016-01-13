@@ -25,7 +25,7 @@
         <module name="basic_java" />
         <module name="class_innner" />
         <module name="design_pattern" />
-        <module name="think_java" />
+        <module name="think_in_java" />
         <module name="thread" />
       </profile>
     </annotationProcessing>
@@ -34,6 +34,7 @@
       <module name="class_innner" target="1.5" />
       <module name="design_pattern" target="1.5" />
       <module name="test" target="1.5" />
+      <module name="think_in_java" target="1.5" />
       <module name="think_java" target="1.5" />
       <module name="thread" target="1.5" />
     </bytecodeTargetLevel>
