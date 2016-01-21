@@ -17,6 +17,5 @@ public class FinalAndStatic {
 
 class MyClass {
     public final double i = Math.random();
-    String
     public static double j = Math.random();
 }
