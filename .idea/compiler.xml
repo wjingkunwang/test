@@ -27,6 +27,7 @@
         <module name="design_pattern" />
         <module name="think_in_java" />
         <module name="thread" />
+        <module name="util" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -37,6 +38,7 @@
       <module name="think_in_java" target="1.5" />
       <module name="think_java" target="1.5" />
       <module name="thread" target="1.5" />
+      <module name="util" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

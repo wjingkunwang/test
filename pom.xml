@@ -14,6 +14,7 @@
         <module>think_java</module>
         <module>design_pattern</module>
         <module>think_in_java</module>
+        <module>util</module>
     </modules>
 
 

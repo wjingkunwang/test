@@ -9,13 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>basic_java</artifactId>
+    <artifactId>my_util</artifactId>
 
-<dependencies>
-    <dependency>
-        <groupId>com.google.guava</groupId>
-        <artifactId>guava</artifactId>
-        <version>19.0</version>
-    </dependency>
-</dependencies>
+
 </project>
