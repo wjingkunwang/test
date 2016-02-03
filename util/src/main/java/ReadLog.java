@@ -94,7 +94,7 @@ public class ReadLog {
         Map<Integer, Integer> map = handleLog("/Users/wjk/Desktop/activity.log", activityIds);
         Optional.of(activityIds);
         for (String string : activityIds) {
-            System.out.println("活动id_" + string + "     UV_" + map.get(Integer.valueOf(string)));
+            System.out.println("活动id  " + string + "_UV_" + map.get(Integer.valueOf(string)));
         }
     }
 }
