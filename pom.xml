@@ -15,6 +15,8 @@
         <module>design_pattern</module>
         <module>think_in_java</module>
         <module>util</module>
+        <module>spring</module>
+        <module>IO</module>
     </modules>
 
 
