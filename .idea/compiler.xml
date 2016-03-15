@@ -23,8 +23,11 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="basic_java" />
+        <module name="cache" />
         <module name="class_innner" />
         <module name="design_pattern" />
+        <module name="IO" />
+        <module name="RMI" />
         <module name="spring" />
         <module name="think_in_java" />
         <module name="thread" />
@@ -33,8 +36,11 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="basic_java" target="1.5" />
+      <module name="cache" target="1.5" />
       <module name="class_innner" target="1.5" />
       <module name="design_pattern" target="1.5" />
+      <module name="IO" target="1.5" />
+      <module name="RMI" target="1.5" />
       <module name="spring" target="1.5" />
       <module name="test" target="1.5" />
       <module name="think_in_java" target="1.5" />

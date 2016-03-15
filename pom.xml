@@ -11,13 +11,19 @@
     <modules>
         <module>thread</module>
         <module>basic_java</module>
-        <module>think_java</module>
         <module>design_pattern</module>
         <module>think_in_java</module>
         <module>util</module>
         <module>spring</module>
         <module>IO</module>
+        <module>RMI</module>
+        <module>cache</module>
     </modules>
-
-
+    <dependencies>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.14.8</version>
+        </dependency>
+    </dependencies>
 </project>
