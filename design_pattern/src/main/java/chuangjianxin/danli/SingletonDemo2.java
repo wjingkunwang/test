@@ -11,11 +11,9 @@ public class SingletonDemo2 {
     private static class singletonClass {
         private static final SingletonDemo2 instance = new SingletonDemo2();
     }
-
     public static SingletonDemo2 getInstance() {
         return singletonClass.instance;
     }
-
     private SingletonDemo2() {
 
     }

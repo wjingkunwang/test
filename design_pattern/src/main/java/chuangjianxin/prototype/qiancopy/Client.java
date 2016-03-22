@@ -6,6 +6,9 @@ package chuangjianxin.prototype.qiancopy;
 public class Client {
     public static void main(String[] args) throws Exception {
         Teacher teacher = new Teacher("snail");
+//        Student student1 = new Student("wjk",teacher);
+//        Student student2 = (Student) student1.clone();
+
         StudentSh student1  =new StudentSh("wjk",teacher);
         StudentSh student2 = (StudentSh) student1.deepClone();
         student2.getTeacher().setName("snail改变");
