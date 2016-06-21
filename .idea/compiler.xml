@@ -27,8 +27,11 @@
         <module name="class_innner" />
         <module name="design_pattern" />
         <module name="IO" />
+        <module name="jvm" />
         <module name="RMI" />
         <module name="spring" />
+        <module name="spring-demo" />
+        <module name="Spring-demo" />
         <module name="think_in_java" />
         <module name="thread" />
         <module name="util" />
@@ -40,8 +43,11 @@
       <module name="class_innner" target="1.5" />
       <module name="design_pattern" target="1.5" />
       <module name="IO" target="1.5" />
+      <module name="jvm" target="1.5" />
       <module name="RMI" target="1.5" />
       <module name="spring" target="1.5" />
+      <module name="spring-demo" target="1.5" />
+      <module name="Spring-demo" target="1.5" />
       <module name="test" target="1.5" />
       <module name="think_in_java" target="1.5" />
       <module name="think_java" target="1.5" />

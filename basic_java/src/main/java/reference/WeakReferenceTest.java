@@ -7,8 +7,8 @@ import java.lang.ref.WeakReference;
  */
 public class WeakReferenceTest {
     public static void main(String[] args) {
-        //String string = new String("hello world");
-        String string = "hello world";
+        String string = new String("hello world");
+//        String string = "hello world";
         WeakReference<String> reference = new WeakReference<String>(string);
         string = null;
         System.out.println("gc()前弱引用所指向的对象是: " + reference.get());

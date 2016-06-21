@@ -18,6 +18,8 @@
         <module>IO</module>
         <module>RMI</module>
         <module>cache</module>
+        <module>jvm</module>
+        <module>spring-demo</module>
     </modules>
     <dependencies>
         <dependency>
