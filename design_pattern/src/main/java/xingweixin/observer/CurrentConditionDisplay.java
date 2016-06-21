@@ -31,6 +31,5 @@ public class CurrentConditionDisplay implements DisplayElement, Observer {
 
     public void disPlay() {
         System.out.println("Current comditions : " + temperature + " F degrees and " + humidity + "% humidity");
-
     }
 }

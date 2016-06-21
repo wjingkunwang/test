@@ -2,60 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="[基本练习]beanMap相互转换&#10;&#10;">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/src/main/java/jvm/ReferenceCountingGC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/src/main/java/jvm/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/IO/src/main/resources/gc.log" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/RMI/Spring-demo.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/Singleton.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jvm/jvm.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jvm/pom.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jvm/src/main/java/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jvm/src/main/java/TestInstance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/jvm/src/main/java/younggc/YoungGenGC.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/com/ioc/domain/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-demo/src/main/java/com/ioc/domain/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring-demo/src/main/resources/applicationContext.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_19_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_14_8.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/CurrentConditionDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/DisplayElement.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/ForecastConditionDisplay.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/Observer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/Subject.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/WeatherDate.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/IO.iml" afterPath="$PROJECT_DIR$/IO/IO.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMI/RMI.iml" afterPath="$PROJECT_DIR$/RMI/RMI.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/guava/optional/Demo1.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/guava/optional/Demo1.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/reference/WeakReferenceTest.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/WeakReferenceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/cache.iml" afterPath="$PROJECT_DIR$/cache/cache.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/spring.iml" afterPath="$PROJECT_DIR$/spring/spring.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/src/main/java/IOC/demo1/ExcelGenerator.java" afterPath="$PROJECT_DIR$/spring/src/main/java/IOC/demo1/ExcelGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/src/main/java/IOC/demo1/PDFGenerator.java" afterPath="$PROJECT_DIR$/spring/src/main/java/IOC/demo1/PDFGenerator.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/thread.iml" afterPath="$PROJECT_DIR$/thread/thread.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/util.iml" afterPath="$PROJECT_DIR$/util/util.iml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/CurrentConditionDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/DisplayElement.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/ForecastConditionDisplay.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Observer.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Subject.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/WeatherDate.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1100,7 +1054,7 @@
       <workItem from="1466123617994" duration="3290000" />
       <workItem from="1466152811183" duration="7156000" />
       <workItem from="1466395967788" duration="12287000" />
-      <workItem from="1466471787978" duration="998000" />
+      <workItem from="1466471787978" duration="1233000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1216,7 +1170,13 @@
       <option name="project" value="LOCAL" />
       <updated>1459931276009</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="[基本练习]beanMap相互转换&#10;&#10;">
+      <created>1466472890751</created>
+      <option name="number" value="00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1466472890751</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1252,7 +1212,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="386235000" />
+    <option name="totallyTimeSpent" value="386470000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1275,9 +1235,9 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.27671233" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50547945" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5051095" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23573825" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23573825" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329698" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36833602" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
