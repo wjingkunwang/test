@@ -38,13 +38,13 @@ public class StudentDaoTest {
     }
 
 
-    @Test
+   /* @Test
     public void alia(){
         Configuration con = getSessionFactory().getConfiguration();
         Map<String, Class<?>> typeMap = con.getTypeAliasRegistry().getTypeAliases();
         for(Map.Entry<String, Class<?>> entry: typeMap.entrySet()) {
             System.out.println(entry.getKey() + " ================> " + entry.getValue().getSimpleName());
         }
-    }
+    }*/
 
 }
