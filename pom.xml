@@ -20,6 +20,7 @@
         <module>cache</module>
         <module>jvm</module>
         <module>spring-demo</module>
+        <module>mybatis</module>
     </modules>
     <dependencies>
         <dependency>

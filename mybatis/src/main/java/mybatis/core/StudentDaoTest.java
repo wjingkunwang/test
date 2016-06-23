@@ -1,14 +1,15 @@
-package com.mybatis;
+package mybatis.core;
 
+import mybatis.plugin.PageHelper;
 import org.apache.ibatis.io.Resources;
-import org.apache.ibatis.session.Configuration;
 import org.apache.ibatis.session.SqlSession;
 import org.apache.ibatis.session.SqlSessionFactory;
 import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 import org.junit.Test;
+import sun.org.mozilla.javascript.internal.json.JsonParser;
 
 import java.io.IOException;
-import java.util.Map;
+import java.util.List;
 
 /**
  * Created by wjk on 16/6/16.
@@ -21,8 +22,21 @@ public class StudentDaoTest {
         StudentDao userMapper = sqlSession.getMapper(StudentDao.class);
 
 
-        Student user = userMapper.findUserById(1);
-        System.out.println(user.toString());
+        Student student = new Student();
+        student.setId(1L);
+        List<Student> user = userMapper.studentPage(student);
+    }
+
+    @Test
+    public void pageHelper() {
+        SqlSession sqlSession = getSessionFactory().openSession();
+        StudentDao userMapper = sqlSession.getMapper(StudentDao.class);
+
+        Student student = new Student();
+
+        PageHelper.startPage(1, 10);
+        userMapper.studentPage(student);
+        System.out.println(PageHelper.endPage().getResult());
     }
 
     //Mybatis 通过SqlSessionFactory获取SqlSession, 然后才能通过SqlSession与数据库进行交互
@@ -37,14 +51,5 @@ public class StudentDaoTest {
         return sessionFactory;
     }
 
-
-   /* @Test
-    public void alia(){
-        Configuration con = getSessionFactory().getConfiguration();
-        Map<String, Class<?>> typeMap = con.getTypeAliasRegistry().getTypeAliases();
-        for(Map.Entry<String, Class<?>> entry: typeMap.entrySet()) {
-            System.out.println(entry.getKey() + " ================> " + entry.getValue().getSimpleName());
-        }
-    }*/
 
 }

@@ -5,14 +5,19 @@
 <configuration>
 
     <!-- 指定properties配置文件， 我这里面配置的是数据库相关 -->
-    <properties resource="dbConfig.properties"></properties>
-
+    <properties resource="dbConfig.properties" >
+        <property name="dialect" value="mysql" />
+        <property name="pageSqlId" value=".*page$" />
+    </properties>
 
     <!-- 指定Mybatis使用log4j -->
     <settings>
         <setting name="logImpl" value="LOG4J"/>
     </settings>
-
+    <plugins>
+        <plugin interceptor="mybatis.plugin.PageHelper">
+        </plugin>
+    </plugins>
 
     <environments default="development">
         <environment id="development">
@@ -28,8 +33,7 @@
 
     <!-- 映射文件，mybatis精髓， 后面才会细讲 -->
     <mappers>
-        <mapper resource="userDao-mapping.xml"/>
+        <mapper resource="userDao-mapping.xml" />
     </mappers>
-
 
 </configuration>
