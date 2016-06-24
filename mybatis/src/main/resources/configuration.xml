@@ -13,7 +13,9 @@
     <!-- 指定Mybatis使用log4j -->
     <settings>
         <setting name="logImpl" value="LOG4J"/>
+        <setting name="cacheEnabled" value="true"/>
     </settings>
+
     <plugins>
         <plugin interceptor="mybatis.plugin.PageHelper">
         </plugin>
@@ -30,6 +32,8 @@
             </dataSource>
         </environment>
     </environments>
+
+
 
     <!-- 映射文件，mybatis精髓， 后面才会细讲 -->
     <mappers>

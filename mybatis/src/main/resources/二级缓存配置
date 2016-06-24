@@ -1,0 +1,11 @@
+1. configuration.xml
+<settings>
+    <setting name="cacheEnabled" value="true"/>
+</settings>
+
+2. userDao-mapping.xml
+    <cache></cache>
+
+3. <select id="findStudentById"   useCache="true" resultType="mybatis.core.Student">
+          select * from student where id = #{id}
+   </select>
