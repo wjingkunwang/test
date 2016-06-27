@@ -13,4 +13,14 @@
         </if>
 
     </select>
+
+    <update id="modify"  parameterType="mybatis.core.Student"  >
+       UPDATE student
+        <set>
+        <if test="name != null">
+             name = #{name,jdbcType=VARCHAR}
+        </if>
+        </set>
+        WHERE id = #{id,jdbcType=BIGINT}
+    </update>
 </mapper>

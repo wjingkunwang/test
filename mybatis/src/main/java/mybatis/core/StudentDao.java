@@ -14,5 +14,5 @@ public interface StudentDao {
 
     public List<Student> studentPage(Student student);
 
-
+    public Integer modify(Student student);
 }

@@ -14,8 +14,15 @@ public class ConfigurationCacheTest {
         SqlSession sqlSession = MybatisUtil.getSessionFactory().openSession();
         StudentDao userMapper = sqlSession.getMapper(StudentDao.class);
 
+
+        SqlSession sqlSession1 = MybatisUtil.getSessionFactory().openSession();
+        StudentDao userMapper1 = sqlSession1.getMapper(StudentDao.class);
+
         Student student = userMapper.findStudentById(1);
-        Student student1 = userMapper.findStudentById(2);
+//        sqlSession.commit();
+//        student.setName("heh");
+//        userMapper.modify(student);
+        Student student1 = userMapper.findStudentById(1);
     }
 
 }
