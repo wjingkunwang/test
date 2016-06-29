@@ -5,13 +5,21 @@
 
     <resultMap type="mybatis.core.Student" id="BaseResultMap">
         <id property="id" column="id"/>
-        <result property="name" column="name" jdbcType="VARCHAR"/>
+        <result property="name" column="name" javaType="List" jdbcType="VARCHAR"/>
     </resultMap>
 
 
-    <select id="findStudentById" useCache="true" resultMap="BaseResultMap">
+    <!--使用别名-->
+    <select id="findStudentById" useCache="true" resultType="student">
         select * from student where id = #{id}
     </select>
+
+    <!--typeHandler使用-->
+    <!--
+    <select id="findStudentById" useCache="true" resultMap="BaseResultMap">-->
+        <!--select * from student where id = #{id}
+    </select>
+    -->
 
     <select id="studentPage" parameterType="mybatis.core.Student" resultType="mybatis.core.Student">
         select * from student

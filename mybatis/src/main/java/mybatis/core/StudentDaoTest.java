@@ -1,13 +1,8 @@
 package mybatis.core;
 
 import mybatis.MybatisUtil;
-import mybatis.plugin.PageHelper;
-import org.apache.ibatis.io.Resources;
 import org.apache.ibatis.session.SqlSession;
-import org.apache.ibatis.session.SqlSessionFactory;
-import org.apache.ibatis.session.SqlSessionFactoryBuilder;
 
-import java.io.IOException;
 import java.util.ArrayList;
 
 /**
@@ -20,16 +15,18 @@ public class StudentDaoTest {
         SqlSession sqlSession = MybatisUtil.getSessionFactory().openSession();
         StudentDao userMapper = sqlSession.getMapper(StudentDao.class);
 
-//        Student student = userMapper.findStudentById(1);
-//        System.out.println(student.getName());
-        Student student = new Student();
-        student.setId(1L);
-        student.setName(new ArrayList<String>() {{
-            add("13");
-            add("23");
-        }});
+        Student student = userMapper.findStudentById(2);
+        System.out.println(student.getName());
 
-        userMapper.modify(student);
+//        Student student = new Student();
+//        student.setId(1L);
+//        student.setName(new ArrayList<String>() {{
+//            add("1");
+//            add("1");
+//        }});
+//
+//        System.out.println(userMapper.modify(student));
+//
     }
 
 }
