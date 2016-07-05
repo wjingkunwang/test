@@ -2,14 +2,123 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SelectSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SortUtils.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/MergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/DirectorHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/LeaveNote.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ManagerHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ViceManagerHandler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/handler.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorate/LowerCaseInputStream.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Mianbao.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/invoker/ConcreteCommand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Invoker.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Receiver.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/memento/Command.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/memento/Memento.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/memento/OperationApi.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/Prototype.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/StudentSh.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Teacher.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Subject.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/strategy/PrimaryMember.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/visitor/jdom/Dom4jTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/resources/dom4j.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/resources/笔记/工程模式" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/spring/src/main/resources/资料" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/mianbao.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/demo1/ProtoType.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/StudentSh.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/Teacher.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/strategy/primaryMember.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/builder/Builder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Builder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/builder/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/builder/Designer.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Designer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/builder/MingGong.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/MingGong.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/builder/Room.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Room.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/Singleton.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/Singleton.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/SingletonDemo.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/SingletonDemo1.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo1.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/SingletonDemo2.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/danli/SingletonDemo3.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo3.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/BreakfastFactory.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/BreakfastFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/Drink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Drink.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/EastBreakfast.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastBreakfast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/EastDrink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastDrink.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/EastFood.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastFood.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/Food.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Food.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/WestBreakfast.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestBreakfast.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/WestDrink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestDrink.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factory/WestFood.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestFood.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/AbstractHumanFactory.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/AbstractHumanFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/BlackHuman.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/BlackHuman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/Human.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/Human.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/HumanFactory.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/HumanFactory.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/NvWa.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/NvWa.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/WhiteHuman.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/WhiteHuman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Demo1/YellowHuman.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/YellowHuman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/EastKFC.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/EastKFC.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Food.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Food.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/KFC.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/KFC.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Test.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/WestKFC.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/WestKFC.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/factorymethod/Youtiao.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Youtiao.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/demo1/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/demo1/ConcretePrototype.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/ConcretePrototype.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/Student.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Student.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/原型模式笔记:" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/原型模式笔记:" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/adapter/ApplyCosmetics.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/adapter/BeautifulGirl.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/adapter/Test.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/adapter/UglyGirl.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/UglyGirl.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/AbstractCar.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/AbstractCar.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/AbstractRoad.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/AbstractRoad.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Bus.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Bus.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Car.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Car.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Human.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Human.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Man.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Man.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/SpeedWay.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/SpeedWay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Street.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Street.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/bridge/Woman.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Woman.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/Bird.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/Bird.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/Change.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/Change.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/Fish.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/Fish.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/Monkey.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/Monkey.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/decorator/TheGreatestSage.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/TheGreatestSage.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/strategy/IntermediateMember.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/strategy/IntermediateMember.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/strategy/MemberStrategy.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/strategy/MemberStrategy.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/strategy/Price.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/strategy/Price.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/jiegouxin/strategy/Test.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/strategy/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/CurrentConditionDisplay.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/CurrentConditionDisplay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/DisplayElement.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/DisplayElement.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/ForecastConditionDisplay.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/ForecastConditionDisplay.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Observer.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/Observer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Subject.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/Subject.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/Test.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/Test.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/xingweixin/observer/WeatherDate.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/WeatherDate.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/IO.iml" afterPath="$PROJECT_DIR$/IO/IO.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/RMI/Spring-demo.iml" afterPath="$PROJECT_DIR$/RMI/Spring-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/cache.iml" afterPath="$PROJECT_DIR$/cache/cache.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jvm/jvm.iml" afterPath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/mybatis.iml" afterPath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring-demo/spring-demo.iml" afterPath="$PROJECT_DIR$/spring-demo/spring-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/spring.iml" afterPath="$PROJECT_DIR$/spring/spring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/thread.iml" afterPath="$PROJECT_DIR$/thread/thread.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/util.iml" afterPath="$PROJECT_DIR$/util/util.iml" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -53,31 +162,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="InsetSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.08840864">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java">
+      <file leaf-file-name="DirectorHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/DirectorHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.14734773">
-              <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="133" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="133" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java">
+      <file leaf-file-name="ManagerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ManagerHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <caret line="9" column="136" selection-start-line="9" selection-start-column="136" selection-end-line="9" selection-end-column="136" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ViceManagerHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ViceManagerHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -91,10 +210,10 @@
         <option value="Kotlin File" />
         <option value="AnnotationType" />
         <option value="Enum" />
-        <option value="Tag Library Descriptor" />
         <option value="XSLT Stylesheet" />
         <option value="spring-beans.schema" />
         <option value="Interface" />
+        <option value="Tag Library Descriptor" />
         <option value="Class" />
       </list>
     </option>
@@ -106,6 +225,12 @@
         <entry key="$PROJECT_DIR$" value="master" />
       </map>
     </option>
+    <option name="PUSH_TAGS">
+      <GitPushTagMode />
+    </option>
+    <push-targets>
+      <push-target-info repo="$PROJECT_DIR$" source="thread" target-remote="origin" target-branch="master" />
+    </push-targets>
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -115,37 +240,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/spring-demo/src/main/resources/userDao-mapping.xml" />
-        <option value="$PROJECT_DIR$/spring-demo/logContentFile.log" />
-        <option value="$PROJECT_DIR$/spring-demo/src/main/java/com/mybatis/ExamplePlugin.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybaitis.core/ExampleObjectFactory.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybaitis.core/Student.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/jdbc/core/Demo.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybaitis.core/StudentDao.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybaitis.core/StudentDaoTest.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core1/StudentDao.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core1/StudentDaoTest.java" />
-        <option value="$PROJECT_DIR$/mybatis/logContentFile.log" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/BaseSearch.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/PageParameter.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/PageHrlper.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/page.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/PageInterceptor.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/base/PageParameter.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/PageHelper.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/Test.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/MybatisUtil.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/PluginTest.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/cache/sqlsession/SqlSessionCacheTest.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/cache/configuration/Test.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/resources/二级缓存配置" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/cache/configuration/ConfigurationCacheTest.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis/pom.xml" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/Student.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/Student4TypeHandler.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/Test.java" />
-        <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/StudentDao.java" />
         <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/StudentDao4TypeHandler.java" />
         <option value="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/StudentDao4TypeHandlerTest.java" />
         <option value="$PROJECT_DIR$/mybatis/src/main/resources/userDao4TypeHandler-mapping.xml" />
@@ -166,6 +260,37 @@
         <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" />
         <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" />
+        <option value="$PROJECT_DIR$/spring/src/main/resources/资料" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/resources/笔记/工程模式" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/demo1/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/demo1/Prototype.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/Teacher.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chuangjianxin/prototype/qiancopy/StudentSh.java" />
+        <option value="$PROJECT_DIR$/basic_java/src/main/java/ppolymorphism.java" />
+        <option value="$PROJECT_DIR$/basic_java/src/main/java/Polymorphism.java" />
+        <option value="$PROJECT_DIR$/basic_java/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Receiver.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Invoker.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Command.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/invoker/ConcreteCommand.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/memento/Memento.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/memento/Command.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/memento/OperationApi.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/resources/dom4j.xml" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/visitor/jdom/Dom4jTest.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/invoker/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastFood.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/observer/Test.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/handler.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Handler.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/LeaveNote.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/DirectorHandler.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ManagerHandler.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ViceManagerHandler.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Client.java" />
       </list>
     </option>
   </component>
@@ -259,9 +384,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -290,7 +414,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic_java" />
+              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -304,7 +428,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic_java" />
+              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -322,7 +446,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic_java" />
+              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -333,6 +457,10 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -344,7 +472,37 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic_java" />
+              <option name="myItemId" value="design_pattern" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="笔记" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -370,7 +528,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="basic_java" />
+              <option name="myItemId" value="design_pattern" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -386,16 +544,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="sort" />
+              <option name="myItemId" value="chainOfResponsibility" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -425,6 +584,7 @@
     <property name="extract.method.default.visibility" value="private" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/wjk/myproject/test/basic_java/src/main/java/data/structure/sort/Test.java" />
     <property name="FullScreen" value="true" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -438,109 +598,47 @@
       <recent name="groovy.util.GroovyTestCase" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="chainOfResponsibility" />
+      <recent name="memento" />
+      <recent name="invoker" />
       <recent name="mybatis.typeHandler" />
       <recent name="jiegouxin.bridge" />
-      <recent name="chuangjianxin.factorymethod.Demo1" />
-      <recent name="IOC.demo1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design_pattern/src/main/java" />
       <recent name="$PROJECT_DIR$/mybatis/src/main/resources" />
       <recent name="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/base" />
       <recent name="$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin" />
       <recent name="$PROJECT_DIR$/mybatis/src/main/java/mybaitis.core" />
-      <recent name="$PROJECT_DIR$/spring-demo/src/main/resources" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="jiegouxin.bridge" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration default="false" name="StudentDaoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Client (3)">
+    <configuration default="false" name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="mybatis.core.*" />
+          <option name="PATTERN" value="chuangjianxin.prototype.qiancopy.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <module name="mybatis" />
+      <option name="MAIN_CLASS_NAME" value="chuangjianxin.prototype.qiancopy.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="mybatis.core" />
-      <option name="MAIN_CLASS_NAME" value="mybatis.core.StudentDaoTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
+      <module name="design_pattern" />
       <envs />
-      <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="StudentDao4TypeHandlerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="mybatis.typeHandler.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mybatis" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="mybatis.typeHandler" />
-      <option name="MAIN_CLASS_NAME" value="mybatis.typeHandler.StudentDao4TypeHandlerTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="StudentDaoTest.findUserById" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="mybatis.core.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <module name="mybatis" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="mybatis.core" />
-      <option name="MAIN_CLASS_NAME" value="mybatis.core.StudentDaoTest" />
-      <option name="METHOD_NAME" value="findUserById" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <envs />
-      <patterns />
-      <method />
-    </configuration>
-    <configuration default="false" name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="data.structure.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="data.structure.sort.BubbleSort" />
+    <configuration default="false" name="Test (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" value="Test" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -553,14 +651,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="data.structure.sort.*" />
+          <option name="PATTERN" value="invoker.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="data.structure.sort.Test" />
+      <option name="MAIN_CLASS_NAME" value="invoker.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -569,7 +667,47 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="basic_java" />
+      <module name="design_pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Dom4jTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="visitor.jdom.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="visitor.jdom.Dom4jTest" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design_pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="chainOfResponsibility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="chainOfResponsibility.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design_pattern" />
       <envs />
       <method />
     </configuration>
@@ -1042,19 +1180,19 @@
     <list size="7">
       <item index="0" class="java.lang.String" itemvalue="Application.YoungGenGC" />
       <item index="1" class="java.lang.String" itemvalue="Application.SoftReferenceTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.StudentDaoTest" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.StudentDao4TypeHandlerTest" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.StudentDaoTest.findUserById" />
-      <item index="5" class="java.lang.String" itemvalue="Application.BubbleSort" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Test" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Dom4jTest" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Client (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="1" class="java.lang.String" itemvalue="Application.BubbleSort" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.StudentDaoTest.findUserById" />
-        <item index="3" class="java.lang.String" itemvalue="JUnit.StudentDao4TypeHandlerTest" />
-        <item index="4" class="java.lang.String" itemvalue="JUnit.StudentDaoTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Dom4jTest" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Test (1)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1205,7 +1343,11 @@
       <workItem from="1467022548903" duration="4803000" />
       <workItem from="1467077678838" duration="4762000" />
       <workItem from="1467164363538" duration="11109000" />
-      <workItem from="1467251819212" duration="7876000" />
+      <workItem from="1467251819212" duration="15972000" />
+      <workItem from="1467331197653" duration="6119000" />
+      <workItem from="1467597499391" duration="6017000" />
+      <workItem from="1467630783437" duration="2989000" />
+      <workItem from="1467679935037" duration="3318000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1375,7 +1517,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467164410288</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="[基本练习]排序&#10;&#10;&#10;&#10;">
+      <created>1467265145514</created>
+      <option name="number" value="00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1467265145514</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1411,7 +1559,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="461387000" />
+    <option name="totallyTimeSpent" value="487926000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1428,23 +1576,23 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29041097" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16438356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32885906" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28630137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26438355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26438355" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2642336" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25767368" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46715328" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329698" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.226979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24394184" sideWeight="0.51282054" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3890411" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24383561" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1485,64 +1633,23 @@
     <MESSAGE value="[基本练习]mybatis分页&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]mybatis cache&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]mybatis typehandler&#10;&#10;&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]mybatis typehandler&#10;&#10;&#10;&#10;" />
+    <MESSAGE value="[基本练习]排序&#10;&#10;&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]排序&#10;&#10;&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/ListTypeHandler.java</url>
-          <line>26</line>
+          <url>jar://$MAVEN_REPOSITORY$/maven/dom4j/1.7-20060614/dom4j-1.7-20060614-sources.jar!/org/dom4j/tree/AbstractElement.java</url>
+          <line>194</line>
           <properties />
-          <option name="timeStamp" value="272" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java</url>
-          <line>117</line>
-          <properties />
-          <option name="timeStamp" value="273" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java</url>
-          <line>101</line>
-          <properties />
-          <option name="timeStamp" value="274" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java</url>
-          <line>69</line>
-          <properties />
-          <option name="timeStamp" value="275" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="276" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="277" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java</url>
-          <line>47</line>
-          <properties />
-          <option name="timeStamp" value="278" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/SimpleStatementHandler.java</url>
-          <line>43</line>
-          <properties />
-          <option name="timeStamp" value="279" />
+          <option name="timeStamp" value="307" />
         </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="296" />
+      <option name="time" value="310" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="JUnit">
@@ -1563,423 +1670,577 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/util/util.iml">
+    <entry file="jar://$MAVEN_REPOSITORY$/maven/dom4j/1.7-20060614/dom4j-1.7-20060614-sources.jar!/org/dom4j/tree/AbstractElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="207" column="21" selection-start-line="207" selection-start-column="21" selection-end-line="207" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/maven/dom4j/1.7-20060614/dom4j-1.7-20060614-sources.jar!/org/dom4j/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="550" column="9" selection-start-line="550" selection-start-column="9" selection-end-line="550" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://SpringLocalModels/invoker.Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>SpringLocalModels</ID>
+          <OriginalElement>invoker.Client</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">invoker.Client</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-189.0" y="2.0" />
+          <SelectedNodes>
+            <node>invoker.Client</node>
+          </SelectedNodes>
+          <Categories>
+            <Category>Show filesets as groups</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/invoker.Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>invoker.Client</OriginalElement>
+          <nodes>
+            <node x="" y="">invoker.Client</node>
+            <node x="" y="">invoker.Command</node>
+            <node x="" y="">invoker.ConcreteCommand</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="50.0" y="-685.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/invoker.ConcreteCommand">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>invoker.ConcreteCommand</OriginalElement>
+          <nodes>
+            <node x="413.0" y="357.0">invoker.Client</node>
+            <node x="269.3125" y="0.0">invoker.Command</node>
+            <node x="0.0" y="101.0">invoker.Invoker</node>
+            <node x="507.75" y="0.0">invoker.Receiver</node>
+            <node x="408.0" y="167.0">invoker.ConcreteCommand</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="invoker.ConcreteCommand" target="invoker.Receiver">
+              <point x="44.25" y="-37.0" />
+              <point x="-32.5" y="25.5" />
+            </edge>
+            <edge source="invoker.Invoker" target="invoker.Command">
+              <point x="0.0" y="-103.0" />
+              <point x="194.0" y="76.0" />
+              <point x="304.3125" y="76.0" />
+              <point x="-35.0" y="25.5" />
+            </edge>
+            <edge source="invoker.Client" target="invoker.Receiver">
+              <point x="55.666666666666636" y="-25.5" />
+              <point x="552.1666666666666" y="332.0" />
+              <point x="600.125" y="332.0" />
+              <point x="600.125" y="76.0" />
+              <point x="605.25" y="76.0" />
+              <point x="32.5" y="25.5" />
+            </edge>
+            <edge source="invoker.Client" target="invoker.ConcreteCommand">
+              <point x="0.0" y="-25.5" />
+              <point x="0.0" y="37.0" />
+            </edge>
+            <edge source="invoker.Client" target="invoker.Invoker">
+              <point x="-55.66666666666663" y="-25.5" />
+              <point x="440.83333333333337" y="332.0" />
+              <point x="194.0" y="332.0" />
+              <point x="0.0" y="103.0" />
+            </edge>
+            <edge source="invoker.ConcreteCommand" target="invoker.Command">
+              <point x="-44.25" y="-37.0" />
+              <point x="452.25" y="76.0" />
+              <point x="374.3125" y="76.0" />
+              <point x="35.0" y="25.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="100.0" y="107.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Fields</Category>
+            <Category>Methods</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/memento/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="0" selection-start-line="12" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/memento/Memento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/memento/OperationApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/invoker/Invoker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/invoker/Receiver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+          <folding>
+            <element signature="e#103#104#0" expanded="false" />
+            <element signature="e#143#144#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/invoker/ConcreteCommand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/invoker/Command.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/invoker/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.666667">
-          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.814815">
-          <caret line="166" column="17" selection-start-line="166" selection-start-column="17" selection-end-line="166" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="76" column="0" selection-start-line="76" selection-start-column="0" selection-end-line="76" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/binding/MapperProxy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="51" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.6666665">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.5555556">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-4.4444447">
-          <caret line="12" column="12" selection-start-line="12" selection-start-column="12" selection-end-line="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/SqlSession.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="17" selection-start-line="30" selection-start-column="17" selection-end-line="30" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/MybatisUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/dbConfig.properties">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/strategy/IntermediateMember.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/二级缓存配置">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/PreparedStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="80" column="0" selection-start-line="80" selection-start-column="0" selection-end-line="80" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="13" selection-start-line="36" selection-start-column="13" selection-end-line="36" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/TypeHandler.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/Subject.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="27" column="7" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/BaseTypeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/type/LongTypeHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="4" selection-start-line="30" selection-start-column="4" selection-end-line="30" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/plugin/base/PageInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.8125">
-          <caret line="152" column="25" selection-start-line="152" selection-start-column="25" selection-end-line="152" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar!/com/mysql/jdbc/jdbc2/optional/PreparedStatementWrapper.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="7.286932">
-          <caret line="368" column="16" selection-start-line="368" selection-start-column="16" selection-end-line="368" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/mysql/mysql-connector-java/5.1.12/mysql-connector-java-5.1.12.jar!/com/mysql/jdbc/PreparedStatement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="22.25926">
-          <caret line="2237" column="16" selection-start-line="2237" selection-start-column="16" selection-end-line="2237" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/sql/PreparedStatement.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="235" column="9" selection-start-line="235" selection-start-column="9" selection-end-line="235" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="35" column="6" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/scripting/defaults/DefaultParameterHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="66" column="0" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/StatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="40" column="6" selection-start-line="40" selection-start-column="6" selection-end-line="40" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/SimpleStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="42" column="0" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/session/defaults/DefaultSqlSession.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/Bird.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="151" column="0" selection-start-line="151" selection-start-column="0" selection-end-line="151" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/CachingExecutor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="69" column="0" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/BaseExecutor.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Street.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="101" column="0" selection-start-line="101" selection-start-column="0" selection-end-line="101" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/ListTypeHandler.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Woman.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/AbstractCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/Monkey.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/BlackHuman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/EastDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/Food.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/AbstractHumanFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/WestDrink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/Drink.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/EastFood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/DisplayElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/CurrentConditionDisplay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/WeatherDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="false" />
+            <element signature="e#207#217#0" expanded="false" />
+            <element signature="e#361#362#0" expanded="false" />
+            <element signature="e#400#401#0" expanded="false" />
+            <element signature="e#840#841#0" expanded="false" />
+            <element signature="e#872#873#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/SimpleExecutor.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/ForecastConditionDisplay.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="47" column="0" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/Observer.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="587" column="18" selection-start-line="587" selection-start-column="18" selection-end-line="587" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/executor/statement/RoutingStatementHandler.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="68" column="0" selection-start-line="68" selection-start-column="0" selection-end-line="68" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/mybatis/mybatis/3.2.6/mybatis-3.2.6-sources.jar!/org/apache/ibatis/plugin/Plugin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="61" column="37" selection-start-line="61" selection-start-column="37" selection-end-line="61" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/cache/configuration/ConfigurationCacheTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/参考文章">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="3" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/jdbc/core/Demo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="34" selection-start-line="16" selection-start-column="34" selection-end-line="16" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/StudentDao.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="10" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/StudentDaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/configuration.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mybatis/src/main/resources/userDao-mapping.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.021367522">
-          <caret line="868" column="16" selection-start-line="868" selection-start-column="16" selection-end-line="868" selection-end-column="16" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/Collection.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorate/LowerCaseInputStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="145" column="7" selection-start-line="145" selection-start-column="7" selection-end-line="145" selection-end-column="7" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#0#21226#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#616#617#0" expanded="false" />
+            <element signature="e#641#642#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/util/LinkedList.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/observer/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="563" column="12" selection-start-line="563" selection-start-column="12" selection-end-line="563" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#34902#0" expanded="false" />
-            <element signature="e#7971#7972#0" expanded="false" />
-            <element signature="e#7999#8000#0" expanded="false" />
-            <element signature="e#8211#8212#0" expanded="false" />
-            <element signature="e#8238#8239#0" expanded="false" />
-            <element signature="e#8711#8712#0" expanded="false" />
-            <element signature="e#8750#8751#0" expanded="false" />
-            <element signature="e#8901#8902#0" expanded="false" />
-            <element signature="e#8928#8929#0" expanded="false" />
-            <element signature="e#11172#11173#0" expanded="false" />
-            <element signature="e#11210#11211#0" expanded="false" />
-            <element signature="e#15841#15842#0" expanded="false" />
-            <element signature="e#15890#15891#0" expanded="false" />
-            <element signature="e#16062#16063#0" expanded="false" />
-            <element signature="e#16112#16113#0" expanded="false" />
-            <element signature="e#16379#16380#0" expanded="false" />
-            <element signature="e#16433#16434#0" expanded="false" />
-            <element signature="e#19884#19885#0" expanded="false" />
-            <element signature="e#19917#19918#0" expanded="false" />
-            <element signature="e#20733#20734#0" expanded="false" />
-            <element signature="e#20762#20763#0" expanded="false" />
-            <element signature="e#23177#23178#0" expanded="false" />
-            <element signature="e#23204#23205#0" expanded="false" />
-            <element signature="e#23662#23663#0" expanded="false" />
-            <element signature="e#23698#23699#0" expanded="false" />
-            <element signature="e#24124#24125#0" expanded="false" />
-            <element signature="e#24156#24157#0" expanded="false" />
-            <element signature="e#26726#26727#0" expanded="false" />
-            <element signature="e#26773#26774#0" expanded="false" />
-            <element signature="e#27095#27096#0" expanded="false" />
-            <element signature="e#27139#27140#0" expanded="false" />
-            <element signature="e#27469#27470#0" expanded="false" />
-            <element signature="e#27509#27510#0" expanded="false" />
-            <element signature="e#27547#27548#0" expanded="false" />
-            <element signature="e#27591#27592#0" expanded="false" />
-            <element signature="e#29025#29026#0" expanded="false" />
-            <element signature="e#29072#29073#0" expanded="false" />
-            <element signature="e#29311#29312#0" expanded="false" />
-            <element signature="e#29359#29360#0" expanded="false" />
-            <element signature="e#29385#29386#0" expanded="false" />
-            <element signature="e#29430#29431#0" expanded="false" />
-            <element signature="e#29461#29462#0" expanded="false" />
-            <element signature="e#29497#29498#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SortUtils.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32416502">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Handler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/LeaveNote.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/chainOfResponsibility.ManagerHandler">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>chainOfResponsibility.ManagerHandler</OriginalElement>
+          <nodes>
+            <node x="" y="">chainOfResponsibility.LeaveNote</node>
+            <node x="" y="">chainOfResponsibility.Handler</node>
+            <node x="" y="">chainOfResponsibility.Client</node>
+            <node x="" y="">chainOfResponsibility.DirectorHandler</node>
+            <node x="" y="">chainOfResponsibility.ManagerHandler</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="201.5" y="93.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/chainOfResponsibility.Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>chainOfResponsibility.Client</OriginalElement>
+          <nodes>
+            <node x="0.0" y="89.0">chainOfResponsibility.ViceManagerHandler</node>
+            <node x="486.0" y="89.0">chainOfResponsibility.LeaveNote</node>
+            <node x="205.72916666666669" y="0.0">chainOfResponsibility.Handler</node>
+            <node x="295.3125" y="259.0">chainOfResponsibility.Client</node>
+            <node x="180.0" y="89.0">chainOfResponsibility.DirectorHandler</node>
+            <node x="332.0" y="89.0">chainOfResponsibility.ManagerHandler</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="chainOfResponsibility.Client" target="chainOfResponsibility.DirectorHandler">
+              <point x="-8.625" y="-14.5" />
+              <point x="313.1875" y="138.0" />
+              <point x="246.0" y="138.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.Client" target="chainOfResponsibility.ManagerHandler">
+              <point x="8.625" y="-14.5" />
+              <point x="330.4375" y="138.0" />
+              <point x="399.0" y="138.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.Client" target="chainOfResponsibility.ViceManagerHandler">
+              <point x="-25.875" y="-14.5" />
+              <point x="295.9375" y="148.0" />
+              <point x="80.0" y="148.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.ManagerHandler" target="chainOfResponsibility.Handler">
+              <point x="33.5" y="-14.5" />
+              <point x="432.5" y="49.0" />
+              <point x="279.9791666666667" y="49.0" />
+              <point x="33.75" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.DirectorHandler" target="chainOfResponsibility.Handler">
+              <point x="33.0" y="-14.5" />
+              <point x="279.0" y="69.0" />
+              <point x="252.97916666666669" y="69.0" />
+              <point x="6.75" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.ViceManagerHandler" target="chainOfResponsibility.Handler">
+              <point x="-40.0" y="-14.5" />
+              <point x="40.0" y="49.0" />
+              <point x="212.47916666666669" y="49.0" />
+              <point x="-33.75" y="14.5" />
+            </edge>
+            <edge source="chainOfResponsibility.Client" target="chainOfResponsibility.LeaveNote">
+              <point x="25.875" y="-14.5" />
+              <point x="347.6875" y="148.0" />
+              <point x="534.5" y="148.0" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="72.0" y="97.5" />
+          <SelectedNodes>
+            <node>chainOfResponsibility.Client</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/DirectorHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="133" selection-start-line="9" selection-start-column="97" selection-end-line="9" selection-end-column="133" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ManagerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="136" selection-start-line="9" selection-start-column="136" selection-end-line="9" selection-end-column="136" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/ViceManagerHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
           <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SelectSort.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.26522595">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.14734773">
-          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.08840864">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
           <folding />
         </state>
       </provider>
