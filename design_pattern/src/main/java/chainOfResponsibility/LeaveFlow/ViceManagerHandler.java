@@ -1,4 +1,4 @@
-package chainOfResponsibility;
+package chainOfResponsibility.leaveFlow;
 
 /**
  * Created by wjk on 16/7/5.

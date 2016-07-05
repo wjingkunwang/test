@@ -3,8 +3,6 @@ package mybatis.core;
 import mybatis.MybatisUtil;
 import org.apache.ibatis.session.SqlSession;
 
-import java.util.ArrayList;
-
 /**
  * Created by wjk on 16/6/24.
  */
