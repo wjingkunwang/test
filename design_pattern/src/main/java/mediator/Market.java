@@ -20,5 +20,4 @@ public class Market implements Department {
     public void selfAction() {
         System.out.println("跑去接项目！");
     }
-
 }

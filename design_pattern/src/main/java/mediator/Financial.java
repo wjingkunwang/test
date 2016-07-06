@@ -17,5 +17,4 @@ public class Financial implements Department {
     public void selfAction() {
         System.out.println("数钱！");
     }
-
 }

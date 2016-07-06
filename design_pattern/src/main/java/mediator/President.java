@@ -14,5 +14,4 @@ public class President implements Mediator {
     public void register(String dname, Department d) {
         map.put(dname, d);
     }
-
 }
