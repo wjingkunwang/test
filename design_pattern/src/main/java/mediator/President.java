@@ -1,17 +1,15 @@
 package mediator;
 
-import java.util.HashMap;
-import java.util.Map;
+import lombok.Setter;
 
+@Setter
 public class President implements Mediator {
 
-    private Map<String, Department> map = new HashMap<String, Department>();
+    private Financial financial;
+    private Market market;
+    private Development development;
 
-    public void command(String dname) {
-        map.get(dname).selfAction();
-    }
-
-    public void register(String dname, Department d) {
-        map.put(dname, d);
+    public void command(Department department) {
+        department.selfAction();
     }
 }

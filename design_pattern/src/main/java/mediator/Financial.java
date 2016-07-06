@@ -1,13 +1,9 @@
 package mediator;
 
-public class Financial implements Department {
-
-    private Mediator m;  //持有中介者(总经理)的引用
+public class Financial extends Department {
 
     public Financial(Mediator m) {
-        super();
-        this.m = m;
-        m.register("financial", this);
+        super(m);
     }
 
     public void outAction() {
