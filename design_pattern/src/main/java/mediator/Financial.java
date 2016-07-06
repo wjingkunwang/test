@@ -1,6 +1,6 @@
 package mediator;
 
-public class Financial extends Department {
+public  class Financial extends Department {
 
     public Financial(Mediator m) {
         super(m);
