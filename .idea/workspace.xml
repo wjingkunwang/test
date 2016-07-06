@@ -2,15 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/President.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/chainOfResponsibility/enhanceFilter/S.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/President.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/President.java" />
     </list>
     <ignored path="test.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -169,28 +168,20 @@
               <notes />
               <edges>
                 <edge source="mediator.Client" target="mediator.President">
-                  <point x="8.625" y="-14.5" />
-                  <point x="356.5" y="203.0" />
-                  <point x="450.0" y="203.0" />
-                  <point x="0.0" y="25.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.Financial" target="mediator.Mediator">
-                  <point x="35.75" y="-37.0" />
-                  <point x="701.25" y="49.0" />
-                  <point x="533.75" y="49.0" />
-                  <point x="32.625" y="14.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.President" target="mediator.Department">
-                  <point x="-62.0" y="-25.5" />
-                  <point x="388.0" y="69.0" />
-                  <point x="225.25" y="69.0" />
-                  <point x="13.25" y="14.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.Client" target="mediator.Market">
-                  <point x="-25.875" y="-14.5" />
-                  <point x="322.0" y="213.0" />
-                  <point x="71.5" y="213.0" />
-                  <point x="0.0" y="37.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.Financial" target="mediator.Department">
                   <point x="-35.75" y="-37.0" />
@@ -209,32 +200,24 @@
                   <point x="-39.75" y="14.5" />
                 </edge>
                 <edge source="mediator.Client" target="mediator.Financial">
-                  <point x="25.875" y="-14.5" />
-                  <point x="373.75" y="213.0" />
-                  <point x="665.5" y="213.0" />
-                  <point x="0.0" y="37.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.President" target="mediator.Mediator">
                   <point x="62.0" y="-25.5" />
                   <point x="10.875" y="14.5" />
                 </edge>
                 <edge source="mediator.Development" target="mediator.Mediator">
-                  <point x="35.75" y="-37.0" />
-                  <point x="270.25" y="89.0" />
-                  <point x="490.25" y="89.0" />
-                  <point x="-10.875" y="14.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.Market" target="mediator.Mediator">
-                  <point x="35.75" y="-37.0" />
-                  <point x="107.25" y="79.0" />
-                  <point x="468.5" y="79.0" />
-                  <point x="-32.625" y="14.5" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
                 <edge source="mediator.Client" target="mediator.Development">
-                  <point x="-8.625" y="-14.5" />
-                  <point x="339.25" y="203.0" />
-                  <point x="234.5" y="203.0" />
-                  <point x="0.0" y="37.0" />
+                  <point x="0.0" y="0.0" />
+                  <point x="0.0" y="0.0" />
                 </edge>
               </edges>
               <settings layout="Hierarchic Group" zoom="1.0" x="368.5" y="131.0" />
@@ -1526,7 +1509,7 @@
       <workItem from="1467679935037" duration="7163000" />
       <workItem from="1467707470314" duration="6337000" />
       <workItem from="1467713902825" duration="3761000" />
-      <workItem from="1467766793850" duration="978000" />
+      <workItem from="1467766793850" duration="1012000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1714,7 +1697,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467688451655</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="[基本练习]中介者&#10;&#10;&#10;&#10;">
+      <created>1467768084411</created>
+      <option name="number" value="00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1467768084411</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1750,7 +1739,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="502847000" />
+    <option name="totallyTimeSpent" value="502881000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1767,6 +1756,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16438356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -1789,7 +1779,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16438356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -1827,7 +1816,8 @@
     <MESSAGE value="[基本练习]排序&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]设计模式&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]责任链&#10;&#10;&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]责任链&#10;&#10;&#10;&#10;" />
+    <MESSAGE value="[基本练习]中介者&#10;&#10;&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]中介者&#10;&#10;&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2377,28 +2367,20 @@
           <notes />
           <edges>
             <edge source="mediator.Client" target="mediator.President">
-              <point x="8.625" y="-14.5" />
-              <point x="356.5" y="203.0" />
-              <point x="450.0" y="203.0" />
-              <point x="0.0" y="25.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.Financial" target="mediator.Mediator">
-              <point x="35.75" y="-37.0" />
-              <point x="701.25" y="49.0" />
-              <point x="533.75" y="49.0" />
-              <point x="32.625" y="14.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.President" target="mediator.Department">
-              <point x="-62.0" y="-25.5" />
-              <point x="388.0" y="69.0" />
-              <point x="225.25" y="69.0" />
-              <point x="13.25" y="14.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.Client" target="mediator.Market">
-              <point x="-25.875" y="-14.5" />
-              <point x="322.0" y="213.0" />
-              <point x="71.5" y="213.0" />
-              <point x="0.0" y="37.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.Financial" target="mediator.Department">
               <point x="-35.75" y="-37.0" />
@@ -2417,32 +2399,24 @@
               <point x="-39.75" y="14.5" />
             </edge>
             <edge source="mediator.Client" target="mediator.Financial">
-              <point x="25.875" y="-14.5" />
-              <point x="373.75" y="213.0" />
-              <point x="665.5" y="213.0" />
-              <point x="0.0" y="37.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.President" target="mediator.Mediator">
               <point x="62.0" y="-25.5" />
               <point x="10.875" y="14.5" />
             </edge>
             <edge source="mediator.Development" target="mediator.Mediator">
-              <point x="35.75" y="-37.0" />
-              <point x="270.25" y="89.0" />
-              <point x="490.25" y="89.0" />
-              <point x="-10.875" y="14.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.Market" target="mediator.Mediator">
-              <point x="35.75" y="-37.0" />
-              <point x="107.25" y="79.0" />
-              <point x="468.5" y="79.0" />
-              <point x="-32.625" y="14.5" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
             <edge source="mediator.Client" target="mediator.Development">
-              <point x="-8.625" y="-14.5" />
-              <point x="339.25" y="203.0" />
-              <point x="234.5" y="203.0" />
-              <point x="0.0" y="37.0" />
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
             </edge>
           </edges>
           <settings layout="Hierarchic Group" zoom="1.0" x="368.5" y="131.0" />
