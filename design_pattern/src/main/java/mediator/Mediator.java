@@ -1,9 +1,9 @@
 package mediator;
 
 public interface Mediator {
-	
-	void register(String dname, Department d);
-	
-	void command(String dname);
-	
+
+    void register(String dname, Department d);
+
+    void command(String dname);
+
 }
