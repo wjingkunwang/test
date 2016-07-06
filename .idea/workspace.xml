@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="91bb951e-ebfd-4782-8166-091640fc5fb5" name="Failed commit: Default" comment="[基本练习]中介者&#10;&#10;&#10;&#10;">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" />
@@ -75,21 +77,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="0.05154639">
               <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Development.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -144,90 +136,8 @@
         <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JAVA/mediator.Client" pinned="false" current-in-tab="true">
-        <entry file="uml://JAVA/mediator.Client">
-          <provider selected="true" editor-type-id="UmlEditorProvider">
-            <state>
-              <ID>JAVA</ID>
-              <OriginalElement>mediator.Client</OriginalElement>
-              <nodes>
-                <node x="159.0" y="0.0">mediator.Department</node>
-                <node x="326.0" y="120.5">mediator.President</node>
-                <node x="594.0" y="109.0">mediator.Financial</node>
-                <node x="313.375" y="233.0">mediator.Client</node>
-                <node x="457.625" y="0.0">mediator.Mediator</node>
-                <node x="163.0" y="109.0">mediator.Development</node>
-                <node x="0.0" y="109.0">mediator.Market</node>
-              </nodes>
-              <notes />
-              <edges>
-                <edge source="mediator.Client" target="mediator.President">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.Financial" target="mediator.Mediator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.President" target="mediator.Department">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.Client" target="mediator.Market">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.Financial" target="mediator.Department">
-                  <point x="-35.75" y="-37.0" />
-                  <point x="629.75" y="59.0" />
-                  <point x="251.75" y="59.0" />
-                  <point x="39.75" y="14.5" />
-                </edge>
-                <edge source="mediator.Development" target="mediator.Department">
-                  <point x="-35.75" y="-37.0" />
-                  <point x="-13.25" y="14.5" />
-                </edge>
-                <edge source="mediator.Market" target="mediator.Department">
-                  <point x="-35.75" y="-37.0" />
-                  <point x="35.75" y="69.0" />
-                  <point x="172.25" y="69.0" />
-                  <point x="-39.75" y="14.5" />
-                </edge>
-                <edge source="mediator.Client" target="mediator.Financial">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.President" target="mediator.Mediator">
-                  <point x="62.0" y="-25.5" />
-                  <point x="10.875" y="14.5" />
-                </edge>
-                <edge source="mediator.Development" target="mediator.Mediator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.Market" target="mediator.Mediator">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-                <edge source="mediator.Client" target="mediator.Development">
-                  <point x="0.0" y="0.0" />
-                  <point x="0.0" y="0.0" />
-                </edge>
-              </edges>
-              <settings layout="Hierarchic Group" zoom="1.0" x="368.5" y="131.0" />
-              <SelectedNodes />
-              <Categories>
-                <Category>Fields</Category>
-                <Category>Constructors</Category>
-              </Categories>
-              <SCOPE>All</SCOPE>
-              <VISIBILITY>private</VISIBILITY>
             </state>
           </provider>
         </entry>
@@ -316,11 +226,11 @@
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Department.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Mediator.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/President.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Finacial.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Financial.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java" />
       </list>
     </option>
   </component>
@@ -1539,7 +1449,7 @@
       <workItem from="1467679935037" duration="7163000" />
       <workItem from="1467707470314" duration="6337000" />
       <workItem from="1467713902825" duration="3761000" />
-      <workItem from="1467766793850" duration="1027000" />
+      <workItem from="1467766793850" duration="1153000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1739,7 +1649,13 @@
       <option name="project" value="LOCAL" />
       <updated>1467768096145</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="[基本练习]中介者&#10;&#10;&#10;&#10;">
+      <created>1467768114195</created>
+      <option name="number" value="00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1467768114195</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1775,7 +1691,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="502896000" />
+    <option name="totallyTimeSpent" value="503022000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1792,7 +1708,7 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16438356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16438356" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2333,26 +2249,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Client.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="0.05154639">
           <caret line="2" column="19" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Development.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="14" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
           <folding />
         </state>
       </provider>
@@ -2392,69 +2292,16 @@
           <ID>JAVA</ID>
           <OriginalElement>mediator.Client</OriginalElement>
           <nodes>
-            <node x="159.0" y="0.0">mediator.Department</node>
-            <node x="326.0" y="120.5">mediator.President</node>
-            <node x="594.0" y="109.0">mediator.Financial</node>
-            <node x="313.375" y="233.0">mediator.Client</node>
-            <node x="457.625" y="0.0">mediator.Mediator</node>
-            <node x="163.0" y="109.0">mediator.Development</node>
-            <node x="0.0" y="109.0">mediator.Market</node>
+            <node x="" y="">mediator.Department</node>
+            <node x="" y="">mediator.President</node>
+            <node x="" y="">mediator.Financial</node>
+            <node x="" y="">mediator.Client</node>
+            <node x="" y="">mediator.Mediator</node>
+            <node x="" y="">mediator.Development</node>
+            <node x="" y="">mediator.Market</node>
           </nodes>
           <notes />
-          <edges>
-            <edge source="mediator.Client" target="mediator.President">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.Financial" target="mediator.Mediator">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.President" target="mediator.Department">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.Client" target="mediator.Market">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.Financial" target="mediator.Department">
-              <point x="-35.75" y="-37.0" />
-              <point x="629.75" y="59.0" />
-              <point x="251.75" y="59.0" />
-              <point x="39.75" y="14.5" />
-            </edge>
-            <edge source="mediator.Development" target="mediator.Department">
-              <point x="-35.75" y="-37.0" />
-              <point x="-13.25" y="14.5" />
-            </edge>
-            <edge source="mediator.Market" target="mediator.Department">
-              <point x="-35.75" y="-37.0" />
-              <point x="35.75" y="69.0" />
-              <point x="172.25" y="69.0" />
-              <point x="-39.75" y="14.5" />
-            </edge>
-            <edge source="mediator.Client" target="mediator.Financial">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.President" target="mediator.Mediator">
-              <point x="62.0" y="-25.5" />
-              <point x="10.875" y="14.5" />
-            </edge>
-            <edge source="mediator.Development" target="mediator.Mediator">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.Market" target="mediator.Mediator">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-            <edge source="mediator.Client" target="mediator.Development">
-              <point x="0.0" y="0.0" />
-              <point x="0.0" y="0.0" />
-            </edge>
-          </edges>
+          <edges />
           <settings layout="Hierarchic Group" zoom="1.0" x="368.5" y="131.0" />
           <SelectedNodes />
           <Categories>
@@ -2463,6 +2310,14 @@
           </Categories>
           <SCOPE>All</SCOPE>
           <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/mediator/Market.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
         </state>
       </provider>
     </entry>
