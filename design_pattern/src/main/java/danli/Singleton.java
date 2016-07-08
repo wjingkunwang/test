@@ -25,4 +25,8 @@ public class Singleton {
         System.out.println("getInstance");
         return SingletonHolder.instance;
     }
+
+    public void print(){
+        System.out.println("123");
+    }
 }

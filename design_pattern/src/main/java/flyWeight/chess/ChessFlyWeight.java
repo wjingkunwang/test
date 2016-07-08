@@ -1,0 +1,18 @@
+package flyWeight.chess;
+
+/**
+ * 享元类
+ *
+ * @author Administrator
+ */
+public interface ChessFlyWeight {
+    void setColor(String c);
+
+    String getColor();
+
+    void display(Coordinate c);
+
+}
+
+
+
