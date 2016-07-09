@@ -21,6 +21,7 @@
         <module>jvm</module>
         <module>spring-demo</module>
         <module>mybatis</module>
+        <module>springMvc</module>
     </modules>
     <dependencies>
         <dependency>

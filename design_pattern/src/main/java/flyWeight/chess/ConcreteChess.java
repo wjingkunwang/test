@@ -3,7 +3,7 @@ package flyWeight.chess;
 /**
  * Created by wjk on 16/7/7.
  */
-class ConcreteChess implements ChessFlyWeight {
+class ConcreteChess implements ChessFlyweight {
 
     private String color;
 

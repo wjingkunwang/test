@@ -8,16 +8,16 @@ import java.util.Map;
  * @author Administrator
  *
  */
-public class ChessFlyWeightFactory {
+public class ChessFlyweightFactory {
 	//享元池
-	private static Map<String,ChessFlyWeight> map = new HashMap<String, ChessFlyWeight>();
+	private static Map<String,ChessFlyweight> map = new HashMap<String, ChessFlyweight>();
 	
-	public  ChessFlyWeight  getChess(String color){
+	public ChessFlyweight getChess(String color){
 		
 		if(map.get(color)!=null){
 			return map.get(color);
 		}else{
-			ChessFlyWeight cfw = new ConcreteChess(color);
+			ChessFlyweight cfw = new ConcreteChess(color);
 			map.put(color, cfw);
 			return cfw;
 		}

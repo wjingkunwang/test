@@ -29,11 +29,10 @@
         <module name="IO" />
         <module name="jvm" />
         <module name="mybatis" />
-        <module name="RMI" />
         <module name="spring" />
         <module name="spring-demo" />
-        <module name="Spring-demo" />
-        <module name="think_in_java" />
+        <module name="springMvc" />
+        <module name="springMVC" />
         <module name="thread" />
         <module name="util" />
       </profile>
@@ -50,6 +49,8 @@
       <module name="spring" target="1.5" />
       <module name="spring-demo" target="1.5" />
       <module name="Spring-demo" target="1.5" />
+      <module name="springMvc" target="1.5" />
+      <module name="springMVC" target="1.5" />
       <module name="test" target="1.5" />
       <module name="think_in_java" target="1.5" />
       <module name="think_java" target="1.5" />

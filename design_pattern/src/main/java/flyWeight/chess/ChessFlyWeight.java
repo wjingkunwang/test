@@ -5,7 +5,7 @@ package flyWeight.chess;
  *
  * @author Administrator
  */
-public interface ChessFlyWeight {
+public interface ChessFlyweight {
     void setColor(String c);
 
     String getColor();

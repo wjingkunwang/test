@@ -2,9 +2,9 @@ package flyWeight.chess;
 
 public class Client {
     public static void main(String[] args) {
-        ChessFlyWeightFactory factory = new ChessFlyWeightFactory();
-        ChessFlyWeight chess1 = factory.getChess("黑色");
-        ChessFlyWeight chess2 = factory.getChess("黑色");
+        ChessFlyweightFactory factory = new ChessFlyweightFactory();
+        ChessFlyweight chess1 = factory.getChess("黑色");
+        ChessFlyweight chess2 = factory.getChess("黑色");
         System.out.println(chess1);
         System.out.println(chess2);
 
