@@ -7,4 +7,7 @@ package observer.job;
 public interface JobSeeker {
 
     public void update(Headhunter headhunter);
+
+    //添加一个熟悉表示是否pull
+    public boolean getJobMessage();
 }

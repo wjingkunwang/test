@@ -13,4 +13,8 @@ public class ConcreteSeeker implements JobSeeker {
     public void update(Headhunter headhunter) {
         headhunter.haveAJob();
     }
+
+    public boolean getJobMessage() {
+        return false;
+    }
 }

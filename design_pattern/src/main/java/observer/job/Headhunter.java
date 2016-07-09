@@ -23,7 +23,9 @@ public abstract class Headhunter {
 
     public void notifyJobSeeker() {
         for (JobSeeker seeker : jobSeekerList) {
-            seeker.update(this);
+            if (seeker.getJobMessage()) {
+                seeker.update(this);
+            }
         }
     }
 }
