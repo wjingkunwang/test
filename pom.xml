@@ -12,11 +12,9 @@
         <module>thread</module>
         <module>basic_java</module>
         <module>design_pattern</module>
-        <module>think_in_java</module>
         <module>util</module>
         <module>spring</module>
         <module>IO</module>
-        <module>RMI</module>
         <module>cache</module>
         <module>jvm</module>
         <module>spring-demo</module>

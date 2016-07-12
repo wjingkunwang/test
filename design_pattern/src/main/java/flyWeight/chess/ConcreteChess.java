@@ -13,8 +13,8 @@ class ConcreteChess implements ChessFlyweight {
     }
 
     public void display(Coordinate c) {
-        System.out.println("棋子颜色：" + color);
         System.out.println("棋子位置：" + c.getX() + "----" + c.getY());
+        System.out.println("棋子颜色：" + color);
     }
 
     public String getColor() {
