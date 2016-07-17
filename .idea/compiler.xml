@@ -28,11 +28,9 @@
         <module name="design_pattern" />
         <module name="IO" />
         <module name="jvm" />
-        <module name="mybatis" />
         <module name="spring" />
         <module name="spring-demo" />
         <module name="springMvc" />
-        <module name="springMVC" />
         <module name="thread" />
         <module name="util" />
       </profile>
