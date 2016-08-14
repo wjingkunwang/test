@@ -1,6 +1,8 @@
 package mybatis.typeHandler;
 
 import org.apache.ibatis.type.JdbcType;
+import org.apache.ibatis.type.MappedJdbcTypes;
+import org.apache.ibatis.type.MappedTypes;
 import org.apache.ibatis.type.TypeHandler;
 import org.springframework.util.CollectionUtils;
 
@@ -13,6 +15,8 @@ import java.util.List;
 /**
  * Created by wjk on 16/6/27.
  */
+//@MappedJdbcTypes(JdbcType.VARCHAR)
+@MappedTypes(List.class)
 public class ListTypeHandler implements TypeHandler {
     private static final String LIST_SPLIT_FLAG = ",";
 
@@ -20,8 +24,12 @@ public class ListTypeHandler implements TypeHandler {
         List<String> list = (List) parameter;
         StringBuilder stringBuilder = new StringBuilder();
         if(!CollectionUtils.isEmpty(list)){
+            int j = 1;
             for(String str : list){
                 stringBuilder.append(str);
+                if(j++ < list.size()){
+                    stringBuilder.append(",");
+                }
             }
         }
         ps.setString(i,stringBuilder.toString());

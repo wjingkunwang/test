@@ -17,7 +17,31 @@ public class ShellSort {
                         break;
                     }
                 }
+
                 arr[j] = temp;
+            }
+        }
+    }
+
+    public static void sort1(int[] arr) {
+        int length = arr.length;
+        int increment = length;
+        while (true) {
+            increment = increment / 2;
+            for (int i = 0; i < increment; i++) {
+                for (int j = i+increment; j + increment < length; j += increment) {
+                    int temp = arr[j];
+                    int K = j - increment;
+                    while (K >= 0 && arr[K] > temp) {
+                        arr[K + increment] = arr[K];
+                        K-=increment;
+                    }
+                    arr[K+increment] = temp;
+                }
+            }
+
+            if (increment == 1) {
+                break;
             }
         }
     }

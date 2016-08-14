@@ -11,7 +11,7 @@ public class QuickSort {
         }
     }
 
-    public static  void quickSort(int[] arr, int low, int high) {
+    public static void quickSort(int[] arr, int low, int high) {
         if (low < high) {
             int middle = getMiddle(arr, low, high);  //将list数组进行一分为二
             quickSort(arr, low, middle - 1);        //对低字表进行递归排序
@@ -19,7 +19,7 @@ public class QuickSort {
         }
     }
 
-    public static  int getMiddle(int[] arr, int low, int high) {
+    public static int getMiddle(int[] arr, int low, int high) {
         int tmp = arr[low];    //数组的第一个作为中轴  
         while (low < high) {
             while (low < high && arr[high] > tmp) {

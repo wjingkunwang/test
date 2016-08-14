@@ -17,8 +17,8 @@ public abstract class Headhunter {
         jobSeekerList.remove(seeker);
     }
 
-    public void haveAJob() {
-        System.out.println("有一个BAT的工作机会");
+    public void haveAJob(String name) {
+        System.out.println(name + "有一个BAT的工作机会");
     }
 
     public void notifyJobSeeker() {

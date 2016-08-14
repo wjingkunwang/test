@@ -10,21 +10,21 @@
         <property name="pageSqlId" value=".*page$"/>
     </properties>
 
-
-
     <!-- 指定Mybatis使用log4j -->
     <settings>
         <setting name="logImpl" value="LOG4J"/>
+        <!--二级cache-->
         <setting name="cacheEnabled" value="true"/>
     </settings>
 
     <!--配置别名-->
     <typeAliases>
-        <typeAlias alias="student" type="mybatis.core.Student"/>
+        <package name="mybatis.core"></package>
+        <!--<typeAlias alias="student" type="mybatis.core.Student"/>-->
     </typeAliases>
 
     <typeHandlers>
-        <typeHandler javaType="list" jdbcType="VARCHAR"
+        <typeHandler
                      handler="mybatis.typeHandler.ListTypeHandler"/>
     </typeHandlers>
 
