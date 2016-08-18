@@ -1,4 +1,4 @@
-package builder.airship;
+package builder;
 
 
 public class SxtAirShipBuilder implements AirShipBuilder {

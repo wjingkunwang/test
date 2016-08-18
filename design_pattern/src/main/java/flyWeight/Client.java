@@ -1,4 +1,4 @@
-package flyWeight.chess;
+package flyWeight;
 
 public class Client {
     public static void main(String[] args) {

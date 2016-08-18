@@ -1,4 +1,4 @@
-package flyWeight.chess;
+package flyWeight;
 
 /**
  * Created by wjk on 16/7/7.

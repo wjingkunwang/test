@@ -5,6 +5,6 @@ package decorator.car;
  */
 public class BMW implements Car {
     public void detail() {
-        System.out.println("一辆宝马");
+        System.out.println("宝马");
     }
 }

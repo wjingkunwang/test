@@ -1,4 +1,4 @@
-package flyWeight.chess;
+package flyWeight;
 
 /**
  * 享元类

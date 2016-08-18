@@ -10,6 +10,5 @@ public class Client {
 
         Car blackCar = new BlackCar(new Decorator(new BMW()));
         blackCar.detail();
-
     }
 }

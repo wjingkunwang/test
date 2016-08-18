@@ -12,7 +12,7 @@ public class YellowCar extends Decorator {
 
     @Override
     public void detail() {
+        System.out.print("黄色");
         super.detail();
-        System.out.println("黄色");
     }
 }

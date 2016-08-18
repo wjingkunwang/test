@@ -10,7 +10,7 @@ public class BlackCar extends Decorator {
 
     @Override
     public void detail() {
+        System.out.print("黑色");
         super.detail();
-        System.out.println("黑色");
     }
 }

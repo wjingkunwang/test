@@ -2,125 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__avalon_framework_avalon_framework_4_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jstl_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__logkit_logkit_1_0_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_1_0_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Human.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/HumanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Man.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/ManFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Woman.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/WomanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Human.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/HumanFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Man.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Woman.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Student.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/StudentDeep.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Teacher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/ConcretePrototype1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/ConcretePrototype2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/prototype.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeAliases/TypeAliasesTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/src/main/java/notify/Calculator.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/src/main/java/notify/ReaderResult.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/src/main/java/notify/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/src/main/java/synchronize/Foo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thread/src/main/java/synchronize/SyncTest.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Builder.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Designer.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/MingGong.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Room.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/Singleton.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/AbstractHumanFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/BlackHuman.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/Human.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/HumanFactory.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/NvWa.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/WhiteHuman.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Demo1/YellowHuman.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/EastKFC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Food.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/KFC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Mianbao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/WestKFC.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factorymethod/Youtiao.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/Client.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/ConcretePrototype.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo1/Prototype.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/singleton/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo1.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo2.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/danli/SingletonDemo3.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo3.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/BreakfastFactory.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/BreakfastFactory.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Drink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Drink.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastBreakfast.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastBreakfast.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastDrink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastDrink.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/EastFood.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastFood.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/Food.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Food.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestBreakfast.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestBreakfast.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestDrink.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestDrink.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/factory/WestFood.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestFood.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Student.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Student.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/StudentSh.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/StudentLow.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/qiancopy/Teacher.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Teacher.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/target/classes/VolatileTest/VolatileTest$1.class" afterPath="$PROJECT_DIR$/thread/target/classes/VolatileTest/VolatileTest$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thread/target/classes/VolatileTest/VolatileTest.class" afterPath="$PROJECT_DIR$/thread/target/classes/VolatileTest/VolatileTest.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/GBTwoPlug.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/NoteBook.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/ThreePlugIf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapterExtends.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Brand.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Client.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Computer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Dell.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/DesktopComputer.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Laptop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Lenovo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Composite.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Leaf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweight.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/UglyGirl.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/AbstractFile.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ChessFlyWeight.java" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ChessFlyWeightFactory.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShip.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipDirector.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipDirector.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirShipBuilder.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirshipDirector.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Client.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ConcreteChess.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ConcreteChess.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/Coordinate.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Coordinate.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/MergeSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/MergeSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/observer/job/ConcreteSeeker.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/job/ConcreteSeeker.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/observer/job/Headhunter.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/observer/job/Headhunter.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/Student.java" afterPath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/Student.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/StudentDaoTest.java" afterPath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/core/StudentDaoTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/ListTypeHandler.java" afterPath="$PROJECT_DIR$/mybatis/src/main/java/mybatis/typeHandler/ListTypeHandler.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/src/main/resources/configuration.xml" afterPath="$PROJECT_DIR$/mybatis/src/main/resources/configuration.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/src/main/resources/userDao-mapping.xml" afterPath="$PROJECT_DIR$/mybatis/src/main/resources/userDao-mapping.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC/pom.xml" afterPath="$PROJECT_DIR$/springMVC/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC/springMVC.iml" afterPath="$PROJECT_DIR$/springMVC/springMVC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" />
     </list>
     <list id="91bb951e-ebfd-4782-8166-091640fc5fb5" name="Failed commit: Default" comment="[基本练习]中介者&#10;&#10;&#10;&#10;" />
     <ignored path="test.iws" />
@@ -166,106 +88,64 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="AirShipBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java">
+      <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AirShip.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java">
+      <file leaf-file-name="Decorator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Decorator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.5555553">
-              <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#153#154#0" expanded="true" />
+                <element signature="e#183#184#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChessFlyweight.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweight.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ChessFlyweightFactory.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.27698863">
+              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConcreteChess.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ConcreteChess.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Client.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java">
+        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Client.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SxtAirShipBuilder.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SxtAirshipDirector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AirShipDirector.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipDirector.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="11" column="0" selection-start-line="10" selection-start-column="1" selection-end-line="11" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ApplyCosmetics.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-              <folding>
-                <element signature="e#188#189#0" expanded="true" />
-                <element signature="e#228#229#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="BeautifulGirl.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.13297872">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UglyGirl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/UglyGirl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -310,34 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" />
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java" />
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" />
-        <option value="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/notify/Test.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/notify/ThreadA.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/notify/ThreadB.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/synchronize/SyncTest.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/synchronize/Foo.java" />
-        <option value="$PROJECT_DIR$/thread/src/main/java/notify/Calculator.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/singleton/Singleton.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo2.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/singleton/Client.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/simpleFactory/Human.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/simpleFactory/Man.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/simpleFactory/Woman.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/simpleFactory/HumanFactory.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/simpleFactory/Client.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/Human.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/HumanFactory.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/Man.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/Woman.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/ManFactory.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/WomanFactory.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factoryMethod/Client.java" />
-        <option value="$PROJECT_DIR$/design_pattern/src/main/java/factory1/simpleFactory/Client.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/factory1/factoryMethod/Human.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/factory1/abstractFactory/WestFood.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestFood.java" />
@@ -361,6 +213,34 @@
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java" />
         <option value="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/demo1/GBTwoPlug.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/demo1/ThreePlugIf.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/demo1/TwoPlugAdapter.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/demo1/TwoPlugAdapterExtends.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/demo1/NoteBook.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/NoteBook.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapterExtends.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapter.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/Human.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Brand.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Dell.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Lenovo.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Computer.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/DesktopComputer.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Laptop.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/component/ComponentDemo.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/composite/Leaf.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/composite/Composite.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java" />
+        <option value="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java" />
       </list>
     </option>
   </component>
@@ -447,6 +327,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -545,111 +428,14 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="airship" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="airship" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="AirShip.java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="adapter" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="settings.github" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringMVC" />
+    <property name="last_opened_file_path" value="$USER_HOME$/qd_project/front/qding/app/modules/integral" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -701,26 +487,46 @@
       <recent name="memento.Demo" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo" />
       <recent name="$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone" />
       <recent name="$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone" />
       <recent name="$PROJECT_DIR$/design_pattern/src/main/java/factory1/abstractFactory" />
       <recent name="$PROJECT_DIR$/design_pattern/src/main/java/factory1/" />
-      <recent name="$PROJECT_DIR$/design_pattern/src/main/java/factory1" />
     </key>
     <key name="CreateClassDialog.RecentsKey">
       <recent name="notify" />
       <recent name="jiegouxin.bridge" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Client">
+  <component name="RunManager" selected="Application.Client (3)">
+    <configuration default="false" name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="proxy.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design_pattern" />
+      <envs />
+      <method />
+    </configuration>
     <configuration default="false" name="Client (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="factoryMethod.*" />
+          <option name="PATTERN" value="bridge.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="factoryMethod.Client" />
+      <option name="MAIN_CLASS_NAME" value="bridge.demo.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -733,54 +539,14 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="false" name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ComponentDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="factory.abstractFactory.*" />
+          <option name="PATTERN" value="component.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="factory.abstractFactory.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design_pattern" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Client (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="prototype.lowClone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="prototype.lowClone.Client" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="design_pattern" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="Client (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="prototype.deepClone.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="prototype.deepClone.Client" />
+      <option name="MAIN_CLASS_NAME" value="component.ComponentDemo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -796,11 +562,31 @@
     <configuration default="false" name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="builder.airship.*" />
+          <option name="PATTERN" value="composite.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="builder.airship.Client" />
+      <option name="MAIN_CLASS_NAME" value="composite.Client" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="design_pattern" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Client (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="decorator.car.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="decorator.car.Client" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -1401,19 +1187,19 @@
       <item index="0" class="java.lang.String" itemvalue="Application.YoungGenGC" />
       <item index="1" class="java.lang.String" itemvalue="Application.SoftReferenceTest" />
       <item index="2" class="java.lang.String" itemvalue="Tomcat Server.test" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Client (3)" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Client (4)" />
-      <item index="6" class="java.lang.String" itemvalue="Application.Client (5)" />
-      <item index="7" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Client (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Client (2)" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ComponentDemo" />
+      <item index="6" class="java.lang.String" itemvalue="Application.Client" />
+      <item index="7" class="java.lang.String" itemvalue="Application.Client (3)" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Client" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Client (5)" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Client (4)" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Client (3)" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Client (3)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Client" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ComponentDemo" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Client (2)" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Client (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -1598,7 +1384,13 @@
       <workItem from="1470800637364" duration="3641000" />
       <workItem from="1470880422623" duration="9327000" />
       <workItem from="1470965878833" duration="22109000" />
-      <workItem from="1471139563922" duration="1024000" />
+      <workItem from="1471139563922" duration="4472000" />
+      <workItem from="1471335315146" duration="3727000" />
+      <workItem from="1471397801349" duration="29000" />
+      <workItem from="1471423499308" duration="2077000" />
+      <workItem from="1471427042178" duration="11000" />
+      <workItem from="1471427842383" duration="298000" />
+      <workItem from="1471492687040" duration="353000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1852,7 +1644,13 @@
       <option name="project" value="LOCAL" />
       <updated>1468768329567</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="[基本练习]设计模式&#10;&#10;&#10;&#10;">
+      <created>1471143823913</created>
+      <option name="number" value="00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1471143823913</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1888,7 +1686,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="656370000" />
+    <option name="totallyTimeSpent" value="666313000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1905,14 +1703,13 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3260274" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1890411" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28630137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26849315" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40684932" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2642336" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1931,6 +1728,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2630137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="true" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
@@ -1966,12 +1764,12 @@
     <MESSAGE value="[基本练习]mybatis cache&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]mybatis typehandler&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]排序&#10;&#10;&#10;&#10;" />
-    <MESSAGE value="[基本练习]设计模式&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]责任链&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]中介者&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]观察者模式&#10;&#10;&#10;&#10;" />
     <MESSAGE value="[基本练习]装饰者模式&#10;&#10;&#10;&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]装饰者模式&#10;&#10;&#10;&#10;" />
+    <MESSAGE value="[基本练习]设计模式&#10;&#10;&#10;&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="[基本练习]设计模式&#10;&#10;&#10;&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2060,11 +1858,17 @@
           <properties />
           <option name="timeStamp" value="389" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="392" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="392" />
+      <option name="time" value="393" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
@@ -2088,407 +1892,507 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Class.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3320158">
-          <caret line="2051" column="4" selection-start-line="2051" selection-start-column="4" selection-end-line="2051" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="359" column="24" selection-start-line="359" selection-start-column="24" selection-end-line="359" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/singleton/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="37" column="24" selection-start-line="37" selection-start-column="24" selection-end-line="37" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/singleton/SingletonDemo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="30" column="3" selection-start-line="30" selection-start-column="3" selection-end-line="33" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring-demo/src/main/java/com/ioc/domain/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/HumanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/simpleFactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/HumanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/WomanFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/ManFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/factoryMethod/Human.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Drink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Food.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastFood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestBreakfast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastDrink.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/EastBreakfast.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/WestFood.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/BreakfastFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/factory/abstractFactory/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="17" column="0" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/Prototype.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/ConcretePrototype1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding>
-            <element signature="e#147#148#0" expanded="false" />
-            <element signature="e#194#195#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="14" selection-end-column="1" />
-          <folding>
-            <element signature="e#201#202#0" expanded="false" />
-            <element signature="e#259#260#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/demo/ConcretePrototype2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/StudentLow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="23" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#300#301#0" expanded="false" />
-            <element signature="e#332#333#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/deepClone/StudentDeep.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="24" column="52" selection-start-line="24" selection-start-column="52" selection-end-line="24" selection-end-column="52" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/lowClone/Teacher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#299#300#0" expanded="false" />
-            <element signature="e#331#332#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/prototype/原型模式笔记:">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="64" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="64" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShip.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-5.5555553">
           <caret line="10" column="0" selection-start-line="10" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirShipBuilder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipDirector.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipDirector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="11" column="0" selection-start-line="10" selection-start-column="1" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirshipDirector.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/builder/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/UglyGirl.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/GBTwoPlug.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapterExtends.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/ThreePlugIf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/NoteBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="35" selection-start-line="14" selection-start-column="35" selection-end-line="14" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/Subject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/proxy/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14822134">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bridge.AbstractRoad">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bridge.AbstractRoad</OriginalElement>
+          <nodes>
+            <node x="207.20833333333334" y="158.0">bridge.Street</node>
+            <node x="57.08333333333334" y="237.0">bridge.Woman</node>
+            <node x="109.20833333333337" y="79.0">bridge.Bus</node>
+            <node x="102.71153846153848" y="158.0">bridge.Human</node>
+            <node x="0.0" y="79.0">bridge.Car</node>
+            <node x="160.9871794871795" y="316.0">bridge.Client</node>
+            <node x="83.20833333333337" y="0.0">bridge.AbstractCar</node>
+            <node x="183.20833333333337" y="79.0">bridge.AbstractRoad</node>
+            <node x="155.08333333333334" y="237.0">bridge.Man</node>
+            <node x="295.20833333333337" y="158.0">bridge.SpeedWay</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bridge.Human" target="bridge.AbstractRoad">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.Client" target="bridge.Man">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.Bus" target="bridge.AbstractCar">
+              <point x="0.0" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+            <edge source="bridge.Client" target="bridge.SpeedWay">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.AbstractRoad" target="bridge.AbstractCar">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.SpeedWay" target="bridge.AbstractRoad">
+              <point x="0.0" y="-14.5" />
+              <point x="342.20833333333337" y="133.0" />
+              <point x="279.875" y="133.0" />
+              <point x="38.66666666666666" y="14.5" />
+            </edge>
+            <edge source="bridge.Woman" target="bridge.Human">
+              <point x="0.0" y="-14.5" />
+              <point x="96.08333333333334" y="212.0" />
+              <point x="121.96153846153848" y="212.0" />
+              <point x="-19.25" y="14.5" />
+            </edge>
+            <edge source="bridge.Car" target="bridge.AbstractCar">
+              <point x="0.0" y="-14.5" />
+              <point x="26.5" y="54.0" />
+              <point x="100.87500000000003" y="54.0" />
+              <point x="-35.33333333333334" y="14.5" />
+            </edge>
+            <edge source="bridge.Man" target="bridge.Human">
+              <point x="0.0" y="-14.5" />
+              <point x="184.08333333333334" y="212.0" />
+              <point x="160.46153846153848" y="212.0" />
+              <point x="19.25" y="14.5" />
+            </edge>
+            <edge source="bridge.Client" target="bridge.Car">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.Street" target="bridge.AbstractRoad">
+              <point x="2.8421709430404007E-14" y="-14.5" />
+              <point x="0.0" y="14.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="35.0" y="233.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/AbstractCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/AbstractRoad.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Bus.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Car.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Client.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Man.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/SpeedWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Street.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Woman.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/Human.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/bridge.demo.Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>bridge.demo.Client</OriginalElement>
+          <nodes>
+            <node x="167.0" y="89.0">bridge.demo.Laptop</node>
+            <node x="262.0" y="89.0">bridge.demo.Dell</node>
+            <node x="0.0" y="89.0">bridge.demo.DesktopComputer</node>
+            <node x="223.375" y="0.0">bridge.demo.Brand</node>
+            <node x="59.23214285714286" y="0.0">bridge.demo.Computer</node>
+            <node x="142.48214285714286" y="168.0">bridge.demo.Client</node>
+            <node x="339.0" y="89.0">bridge.demo.Lenovo</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="bridge.demo.Client" target="bridge.demo.DesktopComputer">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.demo.DesktopComputer" target="bridge.demo.Computer">
+              <point x="-36.75" y="-14.5" />
+              <point x="36.75" y="69.0" />
+              <point x="82.73214285714286" y="69.0" />
+              <point x="-23.5" y="14.5" />
+            </edge>
+            <edge source="bridge.demo.DesktopComputer" target="bridge.demo.Brand">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.demo.Dell" target="bridge.demo.Brand">
+              <point x="0.0" y="-14.5" />
+              <point x="290.5" y="69.0" />
+              <point x="265.25" y="69.0" />
+              <point x="8.375" y="14.5" />
+            </edge>
+            <edge source="bridge.demo.Lenovo" target="bridge.demo.Brand">
+              <point x="0.0" y="-14.5" />
+              <point x="377.5" y="59.0" />
+              <point x="282.0" y="59.0" />
+              <point x="25.125" y="14.5" />
+            </edge>
+            <edge source="bridge.demo.Laptop" target="bridge.demo.Computer">
+              <point x="-18.75" y="-14.5" />
+              <point x="185.75" y="49.0" />
+              <point x="129.73214285714286" y="49.0" />
+              <point x="23.5" y="14.5" />
+            </edge>
+            <edge source="bridge.demo.Client" target="bridge.demo.Dell">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+            <edge source="bridge.demo.Laptop" target="bridge.demo.Brand">
+              <point x="0.0" y="0.0" />
+              <point x="0.0" y="0.0" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="48.0" y="99.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Brand.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Dell.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Computer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Laptop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/DesktopComputer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.19176136">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Lenovo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.10653409">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/composite/Leaf.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/composite/Composite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="38" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="1" selection-start-line="5" selection-start-column="0" selection-end-line="28" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14705883">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="7" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1764706">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
           <folding>
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#228#229#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#162#163#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java">
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/monkey/Monkey.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.13297872">
-          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        <state vertical-scroll-proportion="0.14705883">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/monkey/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20588236">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14705883">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.38235295">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#158#159#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Decorator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="e#153#154#0" expanded="true" />
+            <element signature="e#183#184#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ConcreteChess.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="5" column="43" selection-start-line="5" selection-start-column="43" selection-end-line="5" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.27698863">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
           <folding />
         </state>
       </provider>

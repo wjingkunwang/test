@@ -1,20 +1,19 @@
 package composite;
 
 /**
- * 抽象组件
- * @author Administrator
- *
+ * Created by wjk on 16/8/16.
  */
-public interface Component {
-	void operation();
-}
+public abstract class Component {
+    //输出组件自身名称
+    public abstract void printStruct(String preStr);
 
-//叶子组件
-interface Leaf extends Component {
-}
-//容器组件
-interface Composite extends Component {
-	void add(Component c);
-	void remove(Component c);
-	Component getChild(int index);
+    public void addChild(Component child){}
+
+    public void removeChild(Component child){}
+
+    //返回某个索引对应的组件对象
+    public Component getChild(int index){
+        return null;
+    };
+
 }

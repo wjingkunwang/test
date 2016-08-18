@@ -1,4 +1,4 @@
-package builder.airship;
+package builder;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
