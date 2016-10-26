@@ -1,48 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/GBTwoPlug.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/NoteBook.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/ThreePlugIf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapter.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/TwoPlugAdapterExtends.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Brand.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Client.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Computer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Dell.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/DesktopComputer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Laptop.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/bridge/demo/Lenovo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Composite.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Leaf.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweight.java" />
+    <list default="true" readonly="true" id="eb710af8-2615-4620-9ab0-0fabf7dabada" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/StirngTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/IntegerDemo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/excel" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/innerup" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/java/lang" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/leijiazai" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/serialization" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/basic_java.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/class_innner.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/pom.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest/Demo2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest/Demo3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest/FileSystemClassLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/ClassLoaderTest/TestMyClassLoader.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/StirngTest/StringReflection.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/StirngTest/StringTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/StirngTest/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation/HandleAnnotation.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation/School.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation/StudentName.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/annotation/StudentSex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/Demo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/DoubleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/IntegerDemo/BooleanTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/IntegerDemo/DoubleTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/IntegerDemo/IntegerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/bigdecimalTest/IntegerDemo/LongTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/HashMap2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/HashMapInfLoop.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/SeniorStudent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/Student1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/collection/WeakHashMapDemo1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/BubbleSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/InsetSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/MergeSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/QuickSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SelectSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/ShellSort.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/SortUtils.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/data/structure/sort/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/excel/JDBC.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/excel/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/DoThis.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/DotNew.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Parcel1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Parcel2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Parcel5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Parcel6.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Selector.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/Sequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/innerup/Contents.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/innerup/Destination.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/innerup/Parcel4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/innerClass/innerup/TestPacel.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/java/lang/String.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/leijiazai/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/leijiazai/a" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/leijiazai/a/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory/DirectMemoryOOM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory/HeapOOM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory/JavaVMStackOOM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory/JavaVMStackSOF.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/outofmemory/RuntimeConstantPoolOOM.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/PhantomReferenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/PhantomReferenceTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/PhantomTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/ReferenceQueueTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/ReferenceQueueTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/SoftReferenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/SoftReferenceTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/WeakMap.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/WeakReferenceTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reference/WeakReferenceTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/ClassTest1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/ClassTest2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/ClassTest3.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/ClassTest4.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/ClassTest5.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/reflection/Student.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/serialization/Demo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/serialization/Test.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/basic_java/src/main/java/serialization/User.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/ApplyCosmetics.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/BeautifulGirl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/Test.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/adapter/UglyGirl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/AbstractFile.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ChessFlyWeight.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ChessFlyWeightFactory.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShip.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShip.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipBuilder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/AirShipDirector.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/AirShipDirector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirShipBuilder.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirShipBuilder.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/builder/airship/SxtAirshipDirector.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/builder/SxtAirshipDirector.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Client.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/ConcreteChess.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ConcreteChess.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/chess/Coordinate.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/Coordinate.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/composite/Component.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BMW.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/BlackCar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/Client.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/decorator/car/YellowCar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/Proxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" afterPath="$PROJECT_DIR$/design_pattern/src/main/java/proxy/RealSubject.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IO/IO.iml" afterPath="$PROJECT_DIR$/IO/IO.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cache/cache.iml" afterPath="$PROJECT_DIR$/cache/cache.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jvm/jvm.iml" afterPath="$PROJECT_DIR$/jvm/jvm.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mybatis/mybatis.iml" afterPath="$PROJECT_DIR$/mybatis/mybatis.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spring/spring.iml" afterPath="$PROJECT_DIR$/spring/spring.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/springMVC/springMVC.iml" afterPath="$PROJECT_DIR$/springMVC/springMVC.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test.iml" afterPath="$PROJECT_DIR$/test.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/util/util.iml" afterPath="$PROJECT_DIR$/util/util.iml" />
     </list>
     <list id="91bb951e-ebfd-4782-8166-091640fc5fb5" name="Failed commit: Default" comment="[基本练习]中介者&#10;&#10;&#10;&#10;" />
     <ignored path="test.iws" />
@@ -103,10 +194,7 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-              <folding>
-                <element signature="e#153#154#0" expanded="true" />
-                <element signature="e#183#184#0" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -124,8 +212,8 @@
       <file leaf-file-name="ChessFlyweightFactory.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.27698863">
-              <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+            <state vertical-scroll-proportion="0.5555556">
+              <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -327,9 +415,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -348,94 +435,15 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="design_pattern" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="last_opened_file_path" value="$USER_HOME$/qd_project/front/qding/app/modules/integral" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../learngit" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/local/bin/node" />
@@ -1207,8 +1215,35 @@
   <component name="StructureViewFactory">
     <option name="ACTIVE_ACTIONS" value=",VISIBILITY_SORTER,ALPHA_COMPARATOR" />
   </component>
-  <component name="SvnConfiguration">
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
     <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/basic_java" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/basic_java" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/design_pattern" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/design_pattern" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/basic_java" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/basic_java" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="$PROJECT_DIR$/design_pattern" />
+          <option name="myCopyRoot" value="$PROJECT_DIR$/design_pattern" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -1391,6 +1426,10 @@
       <workItem from="1471427042178" duration="11000" />
       <workItem from="1471427842383" duration="298000" />
       <workItem from="1471492687040" duration="353000" />
+      <workItem from="1477378343385" duration="1848000" />
+      <workItem from="1477384334890" duration="60000" />
+      <workItem from="1477384439921" duration="2000" />
+      <workItem from="1477449863790" duration="8000" />
     </task>
     <task id="LOCAL-00001" summary="[基本练习]线程联系">
       <created>1450748274350</created>
@@ -1686,7 +1725,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="666313000" />
+    <option name="totallyTimeSpent" value="668231000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1709,30 +1748,30 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32875606" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28630137" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40684932" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2642336" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35379645" sideWeight="0.4871795" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46715328" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329698" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.226979" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24394184" sideWeight="0.51282054" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29178083" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel Executor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.29178083" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2630137" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40684932" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel remote servers log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="true" content_ui="tabs" />
+      <window_info id="Run with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.46715328" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="JRebel" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.14246576" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug with VisualVM" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -2307,10 +2346,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.1764706">
           <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#136#137#0" expanded="true" />
-            <element signature="e#162#163#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -2340,8 +2375,8 @@
         <state vertical-scroll-proportion="0.38235295">
           <caret line="13" column="9" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding>
-            <element signature="e#132#133#0" expanded="true" />
-            <element signature="e#158#159#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="false" />
+            <element signature="e#158#159#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -2350,10 +2385,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-          <folding>
-            <element signature="e#153#154#0" expanded="true" />
-            <element signature="e#183#184#0" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -2391,8 +2423,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/design_pattern/src/main/java/flyWeight/ChessFlyweightFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.27698863">
-          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.5555556">
+          <caret line="27" column="0" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
           <folding />
         </state>
       </provider>
